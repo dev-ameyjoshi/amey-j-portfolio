@@ -172,6 +172,7 @@ background-color: var(--off-white);
     }
     .hero-img{
         height: 80%;
+        width: 80%;
     }
     .section{
         flex-direction: column;
