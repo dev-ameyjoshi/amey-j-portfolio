@@ -113,14 +113,7 @@ hr {
 .hero .hero-heading .heading-inverted {
     color: var(--primary-color);
 }
-.side-header{
-    align-items: center;
-    height:100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    font-family: 'Comfortaa', cursive ;
-}
+
 
 /* sections */
 .section{
