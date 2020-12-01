@@ -191,4 +191,7 @@ background-color: var(--off-white);
     .footer{
         flex-direction: column;
     }
+    .link .link-primary{
+        padding: 16px 32px ;
+    }
 }
