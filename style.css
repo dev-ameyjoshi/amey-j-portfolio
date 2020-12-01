@@ -21,13 +21,12 @@ hr {
 
 /* container */
 .container {
-
-    padding: 0rem 1 rem;
+padding: 0rem 2 rem;
 }
 
 
 .container-center {
-    max-width: 700px;
+    max-width: 600px;
     margin: auto;
 }
 
