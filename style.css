@@ -28,10 +28,9 @@ hr {
 
 .container-center {
     max-width: 600px;
-    margin: auto;
+    margin: 0;
 }
-.container .container-site{
-    padding:10rem 0rem;
+
 }
 /* links */
 .link {
