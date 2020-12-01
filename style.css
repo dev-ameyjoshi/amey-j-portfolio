@@ -181,6 +181,9 @@ background-color: var(--off-white);
     .section{
         flex-direction: column;
     }
+    .ow{
+        flex-direction: column;
+    }
     .footer{
         flex-direction: column;
     }
