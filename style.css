@@ -157,6 +157,9 @@ background-color: var(--off-white);
 }
 
 @media screen and (max width: 1024px){
+    .body{
+        flex-direction: column;
+    }
     .navigation{
         flex-direction: column;
     }
