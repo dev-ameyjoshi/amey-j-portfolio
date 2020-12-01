@@ -160,6 +160,7 @@ background-color: var(--off-white);
     .body{
         flex-direction: column;
         background-image:url("images\wood.jpg");
+        box-sizing: border-box;
     }
     .navigation{
         flex-direction: column;
