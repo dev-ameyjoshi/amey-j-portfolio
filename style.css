@@ -156,7 +156,7 @@ background-color: var(--off-white);
 
 }
 
-@media screen and (max width: 1024px){
+@media screen and (max width: 380px){
     .body{
         flex-direction: column;
     }
@@ -178,8 +178,8 @@ background-color: var(--off-white);
         align-self: auto;
     }
     .hero-img{
-        height: 50%;
-        width: 50%;
+        height: 80%;
+        width: 80%;
         flex-direction: column;
     }
     .section{
