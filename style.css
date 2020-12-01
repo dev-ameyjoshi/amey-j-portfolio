@@ -170,6 +170,9 @@ background-color: var(--off-white);
     .list-item-inline{
         font-size: 18px;
     }
+    .hero{
+        align-self: auto;
+    }
     .hero-img{
         height: 80%;
         width: 80%;
