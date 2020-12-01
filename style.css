@@ -159,6 +159,7 @@ background-color: var(--off-white);
 @media screen and (max width: 1024px){
     .body{
         flex-direction: column;
+        background-image:url("images\wood.jpg");
     }
     .navigation{
         flex-direction: column;
