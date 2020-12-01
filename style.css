@@ -45,6 +45,8 @@ padding: 0rem 1rem;
     background-color: var(--primary-color);
     border-radius: 4rem;
     color: white
+    height:2rem ;
+    width:90vw ;
 }
 
 .link-secondary {
