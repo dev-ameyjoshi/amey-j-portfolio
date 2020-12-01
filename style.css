@@ -74,11 +74,13 @@ padding: 0rem 1rem;
     border-top-right-radius: 1rem;
     border-top-left-radius: 1rem;
     border-bottom-right-radius: 1rem;
+ 
 }
 
 .navigation .nav-brand {
     font-weight: bold;
     font-size: 1.1rem;
+    
 }
 
 .navigation .nav-pills {
@@ -100,7 +102,7 @@ padding: 0rem 1rem;
 }
 
 .hero .hero-img {
-    max-width: 580px;
+    max-width: 400px;
     display: block;
     margin: auto;
 }
@@ -118,7 +120,7 @@ padding: 0rem 1rem;
 
 /* sections */
 .section{
-    padding: 0.7rem;
+    padding: 1rem;
 }
 .section h1 {
     text-align: center;
@@ -151,4 +153,30 @@ background-color: var(--off-white);
 .footer ul {
     padding-inline-start: 0px;
 
+}
+
+@media screen and (max width: 1024px){
+    .navigation{
+        flex-direction: column;
+    }
+    .nav-brand{
+        margin-top: 5vh;
+        text-align: center;
+    }
+    .nav-pills{
+        font-size: 30px;
+    
+    }
+    .list-item-inline{
+        font-size: 18px;
+    }
+    .hero-img{
+        height: 80%;
+    }
+    .section{
+        flex-direction: column;
+    }
+    .footer{
+        flex-direction: column;
+    }
 }
