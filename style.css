@@ -16,12 +16,12 @@ body {
 }
 
 hr {
-    margin: 2rem 0rem;
+    margin: 3rem 0rem;
 }
 
 /* container */
 .container {
-padding: 0rem 2 rem;
+padding: 0rem 1rem;
 }
 
 
@@ -30,7 +30,7 @@ padding: 0rem 2 rem;
     margin: auto;
 }
 
-}
+
 /* links */
 .link {
     box-sizing: border-box;
