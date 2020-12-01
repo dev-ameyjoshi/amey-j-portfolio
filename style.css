@@ -48,7 +48,7 @@ padding: 0rem 1rem;
 }
 
 .link-secondary {
-    
+    background-color: var(--off-white);
     border-radius: 0.5rem;
     border: 1px solid var(--off-white);
     color: white
