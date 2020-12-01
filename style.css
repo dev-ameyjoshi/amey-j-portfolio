@@ -176,15 +176,16 @@ background-color: var(--off-white);
     }
     .hero{
         align-self: auto;
+        bottom: 5%;
+		right: 50%;
+		
+		transform: translate(50%, 5%)
     }
     .hero-img{
         height: 80%;
         width: 80%;
         flex-direction: column;
-        bottom: 5%;
-		right: 50%;
-		
-		transform: translate(50%, 5%)
+        
     }
     .section{
         flex-direction: column;
