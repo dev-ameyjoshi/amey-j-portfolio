@@ -183,7 +183,7 @@ background-color: var(--off-white);
 		
 		transform: translate(50%, 5%)
     }
-    .hero-img{
+    .img{
         height: 80%;
         width: 80%;
         flex-direction: column;
