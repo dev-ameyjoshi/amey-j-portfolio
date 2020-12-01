@@ -156,7 +156,7 @@ background-color: var(--off-white);
 
 }
 
-@media screen and (max width: 380px){
+@media screen and (max width: 1024px){
     .body{
         flex-direction: column;
     }
@@ -181,6 +181,10 @@ background-color: var(--off-white);
         height: 80%;
         width: 80%;
         flex-direction: column;
+        bottom: 5%;
+		right: 50%;
+		
+		transform: translate(50%, 5%)
     }
     .section{
         flex-direction: column;
