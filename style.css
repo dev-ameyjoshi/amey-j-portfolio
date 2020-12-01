@@ -33,7 +33,8 @@ padding: 0rem 1rem;
 
 /* links */
 .link {
-    box-sizing: border-box;
+    height:2rem ;
+    width:90vw ;
     text-decoration: none;
     padding: 0.5rem 1rem;
     /* margin-top:1rem;
