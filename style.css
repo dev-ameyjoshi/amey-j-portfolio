@@ -11,6 +11,11 @@ body {
     font-family: 'Comfortaa', cursive;
         margin:0px;
         padding:0rem 8rem;
+        align-items: center;
+        height:100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
         
 }
 
