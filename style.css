@@ -182,7 +182,7 @@ background-color: var(--off-white);
     .section{
         flex-direction: column;
     }
-    .ow{
+    .section .ow{
         flex-direction: column;
     }
     .footer{
