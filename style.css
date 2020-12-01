@@ -37,7 +37,7 @@ padding: 0rem 1rem;
     text-decoration: none;
     margin-top:2rem;
     margin-bottom:2rem;
-     
+     padding: 2rem;
 }
 
 .link-primary {
@@ -64,6 +64,8 @@ padding: 0rem 1rem;
 .list-item-inline {
     display: inline;
     padding: 3rem;
+    margin-top:2rem;
+    margin-bottom:2rem;
    
 }
 
