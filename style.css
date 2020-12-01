@@ -192,6 +192,6 @@ background-color: var(--off-white);
         flex-direction: column;
     }
     .link .link-primary{
-        padding: 16px 32px ;
+        border-radius: 3rem;
     }
 }
