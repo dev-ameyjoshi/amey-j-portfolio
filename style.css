@@ -102,10 +102,10 @@ padding: 0rem 1rem;
 }
 
 .hero .hero-img {
-    max-width: 400px;
+    max-width: 250px;
     display: block;
     margin: auto;
-    padding:2rem;
+    padding:1rem;
 }
 
 .hero .hero-heading {
