@@ -35,7 +35,8 @@ padding: 0rem 1rem;
 .link {
     box-sizing: border-box;
     text-decoration: none;
-   
+    margin-top:2rem;
+    margin-bottom:2rem;
      
 }
 
@@ -62,8 +63,7 @@ padding: 0rem 1rem;
 
 .list-item-inline {
     display: inline;
-    margin-top:2rem;
-    margin-bottom:2rem;
+   
 }
 
 /* navigation */
