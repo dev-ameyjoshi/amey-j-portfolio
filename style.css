@@ -100,7 +100,7 @@ padding: 0rem 1rem;
 }
 
 .hero .hero-img {
-    max-width: 480px;
+    max-width: 580px;
     display: block;
     margin: auto;
 }
@@ -118,7 +118,7 @@ padding: 0rem 1rem;
 
 /* sections */
 .section{
-    padding: 1rem;
+    padding: 0rem;
 }
 .section h1 {
     text-align: center;
