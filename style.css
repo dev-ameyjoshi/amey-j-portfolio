@@ -24,7 +24,9 @@ hr {
 
     padding: 0rem 1 rem;
 }
-
+.container .container-site{
+    padding:5rem;
+}
 .container-center {
     max-width: 600px;
     margin: auto;
