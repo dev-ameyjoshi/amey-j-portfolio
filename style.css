@@ -24,14 +24,15 @@ hr {
 
     padding: 0rem 1 rem;
 }
-.container .container-site{
-    padding:5rem 0rem;
-}
+
+
 .container-center {
     max-width: 600px;
     margin: auto;
 }
-
+.container .container-site{
+    padding:5rem 0rem;
+}
 /* links */
 .link {
     box-sizing: border-box;
