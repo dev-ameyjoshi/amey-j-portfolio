@@ -59,6 +59,7 @@ padding: 0rem 1rem;
 /* list's */
 .list-non-bullet {
     list-style: none;
+    display: flex;
 }
 
 .list-item-inline {
@@ -89,7 +90,7 @@ padding: 0rem 1rem;
 
 .navigation .nav-pills {
     text-align: right;
-    display: flex;
+   
 }
 
 .navigation .link {
