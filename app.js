@@ -1,7 +1,7 @@
 const navSlide = () => {
      const burger = document.querySelector('.burger');
-     const nav = document.querySelector('link-active');
-     const navLPills =document.querySelectorAll(' .navigation .container li');
+     const nav = document.querySelector('nav-links');
+     const navLPills =document.querySelectorAll(' .nav-links li');
 
      burger.addEventListener('click',()=>{
           nav.classList.toggle('nav-active');
@@ -10,7 +10,7 @@ const navSlide = () => {
                if(link.style.animation){
                     link.style.animation = ''
                }else{
-                    link.style.animation = `navPillFade 0.5s ease forwards ${index / 7 +1.5}s`;
+                    link.style.animation = `navLinksFade 0.5s ease forwards ${index / 7 +1.5}s`;
                }
                
           });

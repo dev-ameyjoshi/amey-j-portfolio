@@ -96,6 +96,21 @@ padding: 0rem 1rem;
 .navigation .link {
     color: white;
 }
+.nav-links{
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+}
+.nav-links li{
+    list-style:none;
+}
+.nav-links{
+    color: var(--dark-gray);
+    text-decoration: none;
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-size: 14px;
+}
 
 
 .navigation .link-active {
@@ -195,7 +210,7 @@ padding:1rem;
     .body{
         overflow-x: hidden;
     }
- .navigation .container{
+ .nav-links{
     position: absolute;
     right: 0px;
     height: 92vh;
@@ -208,7 +223,7 @@ padding:1rem;
     transform:translateX(100%) ;
     transition:transform 0.5s ease-in;
 }
- .navigation .container li{
+ .nav-links  li{
     opacity: 0;
 }
 .burger{
@@ -217,7 +232,7 @@ padding:1rem;
 .link-active{
     transform: translateX(0%);
 }
-@keyframes  navigationContainerFade{
+@keyframes  navLinkFade{
     from{
         opacity: 0;
         transform: translateX(50px);
