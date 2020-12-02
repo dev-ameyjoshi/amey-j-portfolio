@@ -195,7 +195,7 @@ padding:1rem;
     .body{
         overflow-x: hidden;
     }
-.nav-brand{
+.nav-pills{
     position: absolute;
     right: 0px;
     height: 92vh;
