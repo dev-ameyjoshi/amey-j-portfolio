@@ -89,6 +89,7 @@ padding: 0rem 1rem;
 
 .navigation .nav-pills {
     text-align: right;
+    display: flex;
 }
 
 .navigation .link {
