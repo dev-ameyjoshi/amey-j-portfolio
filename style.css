@@ -159,6 +159,12 @@ background-color: var(--off-white);
     padding-inline-start: 0px;
 
 }
+ .footer .footer-img{
+    margin: auto;
+    max-width: 250px;
+    display: block;
+    padding: 1rem;
+ }
 .hr{
     display: block;
     unicode-bidi: isolate;
