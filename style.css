@@ -195,7 +195,7 @@ padding:1rem;
     .body{
         overflow-x: hidden;
     }
-.list-non-bullet .nav-pills{
+ .nav-pills{
     position: absolute;
     right: 0px;
     height: 92vh;
@@ -208,13 +208,13 @@ padding:1rem;
     transform:translateX(100%) ;
     transition:transform 0.5s ease-in;
 }
-.list-non-bullet .nav-pills li{
+ .nav-pills li{
     opacity: 0;
 }
 .burger{
     display: block;
 }
-.nav-active{
+.link-active{
     transform: translateX(0%);
 }
 @keyframes  listNonBulletNavPillsFade{
