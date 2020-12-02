@@ -217,7 +217,7 @@ padding:1rem;
 .nav-active{
     transform: translateX(0%);
 }
-@keyframes navLinkFade{
+@keyframes navPillsFade{
     from{
         opacity: 0;
         transform: translateX(50px);
