@@ -217,7 +217,7 @@ padding:1rem;
 .link-active{
     transform: translateX(0%);
 }
-@keyframes  listNonBulletNavPillsFade{
+@keyframes  navigationContainerFade{
     from{
         opacity: 0;
         transform: translateX(50px);
