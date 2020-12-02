@@ -195,7 +195,7 @@ padding:1rem;
     .body{
         overflow-x: hidden;
     }
- .navigation{
+ .navigation .container{
     position: absolute;
     right: 0px;
     height: 92vh;
@@ -208,7 +208,7 @@ padding:1rem;
     transform:translateX(100%) ;
     transition:transform 0.5s ease-in;
 }
- .navigation li{
+ .navigation .container li{
     opacity: 0;
 }
 .burger{
