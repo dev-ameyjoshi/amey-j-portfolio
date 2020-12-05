@@ -119,12 +119,12 @@ padding: 0rem 1rem;
 
 .hero .hero-heading {
     text-align:center;
-    color: var(--off-white);
+    color: var(--primary-color);
     padding-top: 1rem;
 }
 
 .hero .hero-heading .heading-inverted {
-    color: var(--off-white);
+    color: var(--primary-color);
 }
 
 
