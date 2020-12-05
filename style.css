@@ -119,7 +119,7 @@ padding: 0rem 1rem;
 
 .hero .hero-heading {
     text-align:center;
-    color: var(--primary-color);
+    color: var( --off-white);
     padding-top: 1rem;
 }
 
