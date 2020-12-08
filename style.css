@@ -35,14 +35,14 @@ padding: 0rem 1rem;
     text-decoration: none;
     margin-top:0.3rem;
     margin-bottom:0.3rem;
-     padding: inherit;
+     padding: 0.25rem;
 }
 
 .link-primary {
     background-color: var(--primary-color);
     border-radius: 1rem;
     color: white
-   
+
 }
 
 .link-secondary {
