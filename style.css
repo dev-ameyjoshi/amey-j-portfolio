@@ -115,6 +115,7 @@ padding: 0rem 1rem;
     display: block;
     margin: auto;
     padding:1rem;
+    border-radius: 50%;
 }
 
 .hero .hero-heading {
