@@ -109,6 +109,10 @@ padding: 0rem 1rem;
 /* header */
 .hero {
     padding: 1rem;
+    border-bottom-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
 }
 
 .hero .hero-img {
@@ -116,10 +120,7 @@ padding: 0rem 1rem;
     display: block;
     margin: auto;
     padding:1rem;
-    border-bottom-left-radius: 1rem;
-    border-top-right-radius: 1rem;
-    border-top-left-radius: 1rem;
-    border-bottom-right-radius: 1rem;
+    
 }
 
 .hero .hero-heading {
