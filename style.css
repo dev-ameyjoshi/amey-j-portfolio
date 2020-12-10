@@ -40,7 +40,7 @@ padding: 0rem 1rem;
 }
 
 .link-primary {
-    background-color: var(--off-white);
+    background-color: var(--primary-color);
     border-radius: 1rem;
     color: white
 
