@@ -26,7 +26,7 @@ padding: 0rem 1rem;
 .container-center {
     max-width: 600px;
     margin: auto;
-    color:white;
+    color:#494D5F;
 }
 
 
@@ -145,7 +145,7 @@ padding: 0rem 1rem;
 }
 
 .ow{
-background-color: var(--off-white);
+background-color: var(--primary-color);
 padding:1rem;
 }
 /* footers */
