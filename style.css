@@ -28,7 +28,11 @@ padding: 0rem 1rem;
     margin: auto;
     color:white;
 }
-
+ .container-align{
+    max-width: 600px;
+    margin: auto;
+    color:black;
+ }
 
 /* links */
 .link {
