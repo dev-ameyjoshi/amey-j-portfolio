@@ -2,7 +2,7 @@
 
 :root {
     --primary-color:#60A5FA;
-    --off-white:#3B82F6;
+    --off-white:#5793f3;
     --dark-gray:#FCD34D;
    
 }
@@ -134,7 +134,7 @@ padding: 0rem 1rem;
 
 .hero .hero-heading {
     text-align:center;
-    color: var( --off-white);
+    color: rgb(255, 255, 255);
     padding-top: 1rem;
 }
 
